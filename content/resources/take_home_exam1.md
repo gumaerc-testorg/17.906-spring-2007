@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the first take-home exam for the course.
-file: /courses/17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007/b6a0c360b247c83a1e3a516d16e1ea9c_take_home_exam1.pdf
+file: /ol-ocw-studio-app/courses/17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007/b6a0c360b247c83a1e3a516d16e1ea9c_take_home_exam1.pdf
+file_size: 12670
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource provides guidelines for writing assignments.
-file: /courses/17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007/1f0c1ebd6e13634a4bd0975515d189e2_writing_guides.pdf
+file: /ol-ocw-studio-app/courses/17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007/1f0c1ebd6e13634a4bd0975515d189e2_writing_guides.pdf
+file_size: 18270
 file_type: application/pdf
 learning_resource_types:
 - Exams
