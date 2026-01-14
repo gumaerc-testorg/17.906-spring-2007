@@ -106,9 +106,9 @@ The global energy balance - present status, future trends, and strategic respons
 {{< tdopen >}}
 
 
-{{% resource_link "56d0e647-d4f9-4629-9d56-0aadf8dba0df" "BP Statistical Review of World Energy June 2006" %}}
+[BP Statistical Review of World Energy June 2006](https://www.rrojasdatabank.info/bpstats2006.pdf)
 
-Leverett, Flynt, and Pierre Noel. "{{% resource_link "6db3aa73-d496-4a8b-a136-f423037e5a22" "The New Axis of Oil" %}}." _The National Interest_ (July 2006).
+Leverett, Flynt, and Pierre Noel. "[The New Axis of Oil](https://www.jstor.org/stable/42895865?seq=1#metadata_info_tab_contents)." _The National Interest_ (July 2006).
 
 Barnes, Joe, Mark Hayes, Amy Jaffe, and David Victor. "Introduction to the Study." In _Natural Gas and Geopolitics: From 1970 to 2040_. Edited by David Victor, Amy Jaffe, and Mark Hayes. New York, NY: Cambridge University Press, 2006. ISBN: 9780521865036.
 
@@ -140,7 +140,7 @@ Hartey, Peter, and Kenneth Medlock. "Political and Economic Influences on the Fu
 
 To introduce methodological problems involved in forecasting the global balance of supply and demand for crude oil and natural gas.
 
-{{% resource_link "f4408df4-dc73-4c75-9df2-94a4d381ea30" "World Energy Model" %}} ({{% resource_link "e02b2c5a-6be9-42af-8e23-d18cdf70c474" "PDF" %}})
+[World Energy Model](http://www.worldenergyoutlook.org/) ([PDF](http://www.worldenergyoutlook.org/media/weowebsite/energymodel/WEM_Methodology_WEO2011.pdf))
 
 Hartley, Peter, and Kenneth Medlock. "The Baker Institute World Gas Trade Model." In _Natural Gas and Geopolitics: From 1970 to 2040_. Edited by David Victor, Amy Jaffe, and Mark Hayes. New York, NY: Cambridge University Press, 2006. ISBN: 9780521865036.
 
@@ -158,7 +158,7 @@ Resource nationalism and market power (I) - OPEC and the challenges
 {{< tdopen >}}
 
 
-Energy Information Administration, {{% resource_link "02ad0c7f-0ada-4d1e-9b31-c9b29f3299e9" "_Country Analysis Brief: Saudi Arabia_" %}}.
+Energy Information Administration, [_Country Analysis Brief: Saudi Arabia_](http://www.eia.doe.gov/emeu/cabs/Saudi_Arabia/Background.html).
 
 Marcel, Valerie. _Oil Titans: National Oil Companies in the Middle East_. Baltimore, MD: Brookings Institution Press, 2006, pp. 54-105. ISBN: 9780815754732.
 
@@ -182,9 +182,9 @@ Resource nationalism and market power (II) - Iran, Iraq, and the future of hydro
 {{< tdopen >}}
 
 
-Energy Information Administration, {{% resource_link "396a6f41-8182-47b3-8c3b-e8dfb383e27e" "_Country Analysis Brief: Iran_" %}}.
+Energy Information Administration, [_Country Analysis Brief: Iran_](http://www.eia.doe.gov/emeu/cabs/Iran/Background.html).
 
-Energy Information Administration, {{% resource_link "ae9b6cdd-e2d7-4172-90b6-27794d31b4f8" "_Country Analysis Brief: Iraq_" %}}.
+Energy Information Administration, [_Country Analysis Brief: Iraq_](http://www.eia.doe.gov/emeu/cabs/Iraq/Background.html).
 
 Crandall, Maureen. _Energy, Economics, and Politics in the Caspian Region: Dreams and Realities_. Westport, CT: Praeger Security International, 2006, pp. 107-118. ISBN: 9780275991302.
 
@@ -194,7 +194,7 @@ Marcel, Valerie. _Oil Titans: National Oil Companies in the Middle East_. Baltim
 
 To look at the energy dimensions of regional security dynamics in the Persian Gulf.
 
-McMillan, Joseph. "{{% resource_link "0ea07707-5824-4eaa-a05d-e8ce6d93f610" "Saudi Arabia and Iraq: Oil, Religion, and an Enduring Rivalry" %}}." _United States Institute of Peace Special Report_, no. 157 (January 2006): 1-16.
+McMillan, Joseph. "[Saudi Arabia and Iraq: Oil, Religion, and an Enduring Rivalry](http://www.usip.org/publications/saudi-arabia-and-iraq-oil-religion-and-enduring-rivalry)." _United States Institute of Peace Special Report_, no. 157 (January 2006): 1-16.
 
 
 {{< tdclose >}}
@@ -210,9 +210,9 @@ Resource nationalism and market power (III) - Russia, the Post-Soviet Space, and
 {{< tdopen >}}
 
 
-Energy Information Administration, {{% resource_link "18fc9750-ff57-476c-a7ff-6ddb2feb4e79" "_Country Analysis Brief: Russia_" %}}.
+Energy Information Administration, [_Country Analysis Brief: Russia_](http://www.eia.doe.gov/emeu/cabs/Russia/Background.html).
 
-The Brookings Institution. "The Russian Federation." _The Brookings Foreign Policy Energy Security Series_ (October 2006): 1-33. ({{% resource_link "b5b335c7-848c-4b6f-be2d-f61c6c5c2075" "PDF" %}})
+The Brookings Institution. "The Russian Federation." _The Brookings Foreign Policy Energy Security Series_ (October 2006): 1-33. ([PDF](http://www.brookings.edu/~/media/research/files/reports/2006/10/russia/2006russia.pdf))
 
 Crandall, Maureen. _Energy, Economics, and Politics in the Caspian Region: Dreams and Realities_. Westport, CT: Praeger Security International, 2006, pp. 118-135. ISBN: 9780275991302.
 
@@ -224,7 +224,7 @@ Victor, Nadejda, and David Victor. "Bypassing Ukraine: Exporting Russian Gas to 
 
 To delve deeply into Russian energy policy and to relate Putin's use of the energy "weapon" to broader analytic questions about Russian foreign policy.
 
-Larsson, Robert. {{% resource_link "18f68b0b-cb6b-400b-81d4-8495e7e37866" "_Russia's Energy Policy: Security Dimensions and Russia's Reliability as an Energy Supplier_" %}}. ResearchGate, June 2011. ISBN: 1650-1942.
+Larsson, Robert. [_Russia's Energy Policy: Security Dimensions and Russia's Reliability as an Energy Supplier_](https://www.researchgate.net/publication/242714626_Russia's_Energy_Policy_Security_Dimensions_and_Russia's_Realibility_as_an_Energy_Supplier). ResearchGate, June 2011. ISBN: 1650-1942.
 
 
 {{< tdclose >}}
@@ -270,7 +270,7 @@ Resource mercantilism - China, India, and Japan
 {{< tdopen >}}
 
 
-Lieberthal, Kenneth, and Mikkal Herberg. "China's Search for Energy Security: Implications for U.S. Policy." _NBR Analysis_ 17, no. 1 (April 2006): 1-54. ({{% resource_link "21185454-3c96-4f15-9ec3-e46d4539f0f9" "PDF" %}})
+Lieberthal, Kenneth, and Mikkal Herberg. "China's Search for Energy Security: Implications for U.S. Policy." _NBR Analysis_ 17, no. 1 (April 2006): 1-54. ([PDF](https://www.nbr.org/publication/chinas-search-for-energy-security-implications-for-u-s-policy/))
 
 Crandall, Maureen. _Energy, Economics, and Politics in the Caspian Region: Dreams and Realities_. Westport, CT: Praeger Security International, 2006, pp. 138-149. ISBN: 9780275991302.
 
@@ -304,11 +304,11 @@ New prospects for producer-consumer cooperation
 {{< tdopen >}}
 
 
-Lewis, Stephen. "Energy Security in Northeast Asia: The Potential for Cooperation Among the Major Energy Consuming Economies of China, Japan, and the United States." In _International Conference on Energy Security: Implications for U.S.-China-Middle East Relations, July 18, 2005, Shanghai, China_. Houston, TX: James A. Baker III Institute for Public Policy, 2005, pp. 1-17. ({{% resource_link "13113e7d-7ec6-470e-9a64-1addd46ac439" "PDF" %}})
+Lewis, Stephen. "Energy Security in Northeast Asia: The Potential for Cooperation Among the Major Energy Consuming Economies of China, Japan, and the United States." In _International Conference on Energy Security: Implications for U.S.-China-Middle East Relations, July 18, 2005, Shanghai, China_. Houston, TX: James A. Baker III Institute for Public Policy, 2005, pp. 1-17. ([PDF](https://www.bakerinstitute.org/research/energy-security-in-northeast-asia-the-potential-for-cooperation-among-the-major-energy-consuming-eco/))
 
-Leverett, Flynt, and Jeffrey Bader. "Managing China-U.S. Energy Competition in the Middle East." _Washington Quarterly_ 29, no. 1 (Winter 2005-2006): 187-201. ({{% resource_link "f0e09af8-6e2e-4007-8e1e-b07f5f917f4a" "PDF" %}})
+Leverett, Flynt, and Jeffrey Bader. "Managing China-U.S. Energy Competition in the Middle East." _Washington Quarterly_ 29, no. 1 (Winter 2005-2006): 187-201. ([PDF](https://www.brookings.edu/wp-content/uploads/2016/06/20051216_leverett_bader.pdf))
 
-Friedberg, Aaron. "'{{% resource_link "cf1d2c45-f66d-487f-9417-00b5e907cad2" "Going Out': China's Pursuit of Natural Resources and Implications for the PRC's Grand Strategy." %}}" _NBR Analysis_ 17, no. 3 (September 2006): 1-40. 
+Friedberg, Aaron. "'[Going Out': China's Pursuit of Natural Resources and Implications for the PRC's Grand Strategy.](https://www.nbr.org/publication/going-out-chinas-pursuit-of-natural-resources-and-implications-for-the-prcs-grand-strategy/)" _NBR Analysis_ 17, no. 3 (September 2006): 1-40. 
 
 ### Additional readings for graduate students
 
@@ -332,7 +332,7 @@ Energy battlegrounds (II) - Central Asia, the Caspian Basin, and Iran
 {{< tdopen >}}
 
 
-Energy Information Administration, {{% resource_link "f3f53a62-27f7-42e3-9aa8-dea841b0fe78" "_Country Analysis Brief: Caspian Sea Region_" %}}.
+Energy Information Administration, [_Country Analysis Brief: Caspian Sea Region_](http://www.eia.doe.gov/emeu/cabs/caspgase.html).
 
 Crandall, Maureen. _Energy, Economics, and Politics in the Caspian Region: Dreams and Realities_. Westport, CT: Praeger Security International, 2006, pp. 55-107 and 149-169. ISBN: 9780275991302.
 
@@ -342,7 +342,7 @@ Olcott, Martha Brill. "International gas Trade in Central Asia: Turkmenistan, Ir
 
 To delve into the practical problems and theoretical issues associated with consumer cooperation and producer-consumer cooperation in global energy markets.
 
-Mitchell, John. _{{% resource_link "5725a33e-b996-4c7a-946d-503cdcb0a89b" "Producer-Consumer Dialogue: What Can Energy Ministers Say to One Another?" %}}_. London, UK: Chatham House (Royal Institute of International Affairs), November 2005, pp. 1-33.
+Mitchell, John. _[Producer-Consumer Dialogue: What Can Energy Ministers Say to One Another?](https://www.ciaonet.org/catalog/1552)_. London, UK: Chatham House (Royal Institute of International Affairs), November 2005, pp. 1-33.
 
 Panova, Victoria. "Explaining Compliance with International Energy Commitments: The G-8 and the IEA." (Unpublished paper).
 
